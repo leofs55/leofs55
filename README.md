@@ -1,4 +1,4 @@
-<h1 align="left">Olá👋! Meu nome é Leonardo e sou um desenvolvedor!</h1>
+<h1 align="left">Olá👋! Meu nome é Leonardo e sou um desenvolvedor de Software!</h1>
 
 ###
 
